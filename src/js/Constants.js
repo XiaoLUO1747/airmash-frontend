@@ -115,7 +115,7 @@ window.CountryNames = {
   SE: 'Sweden',
   CH: 'Switzerland',
   SY: 'Syrian Arab Republic',
-  TW: 'Taiwan',
+  TW: 'Republic of China',
   TZ: 'Tanzania',
   TH: 'Thailand',
   TT: 'Trinidad and Tobago',
